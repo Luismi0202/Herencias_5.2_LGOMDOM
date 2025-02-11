@@ -1,0 +1,1 @@
+# Herencias_5.2_LGOMDOM

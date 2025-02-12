@@ -1,14 +1,4 @@
 
-fun comprobarid(id:String):Boolean{
-    var id_valido = true
-    for(caracter in id){
-        if(!caracter.isDigit()){
-            id_valido = false
-        }
-    }
-    return id_valido
-}
-
 
 fun main(){
     val listaEmpleado = mutableListOf<Empleado>()
